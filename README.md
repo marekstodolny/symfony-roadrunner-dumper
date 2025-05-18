@@ -13,7 +13,7 @@ Using this bundle you can dump any variable using `\dev\dd()` function just like
 Require this package with composer using the following command:
 
 ```bash
-$ composer require --dev alshenetsky/symfony-roadrunner-dumper "^1.0"
+$ composer require --dev marek-stodolny/symfony-roadrunner-dumper "dev-master"
 ```
 
 ## RoadRunner use-case
