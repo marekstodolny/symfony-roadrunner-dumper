@@ -10,10 +10,24 @@ Using this bundle you can dump any variable using `\dev\dd()` function just like
 
 ## Install
 
+Add this to your composer.json
+
+```json
+{
+    // ...
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/marekstodolny/symfony-roadrunner-dumper"
+        }
+    ]
+}
+```
+
 Require this package with composer using the following command:
 
 ```bash
-$ composer require --dev marek-stodolny/symfony-roadrunner-dumper "dev-master"
+$ composer require --dev marekstodolny/symfony-roadrunner-dumper "dev-master"
 ```
 
 ## RoadRunner use-case
