@@ -1,5 +1,5 @@
 {
-  "name": "alshenetsky/symfony-roadrunner-dumper",
+  "name": "marekstodolny/symfony-roadrunner-dumper",
   "type": "symfony-bundle",
   "description": "A replacement for dd() function which works in roadrunner",
   "license": "MIT",
@@ -17,7 +17,7 @@
     }
   },
   "support": {
-    "issues": "https://github.com/alshenetsky/symfony-roadrunner-dumper/issues",
-    "source": "https://github.com/alshenetsky/symfony-roadrunner-dumper"
+    "issues": "https://github.com/marekstodolny/symfony-roadrunner-dumper/issues",
+    "source": "https://github.com/marekstodolny/symfony-roadrunner-dumper"
   }
 }
